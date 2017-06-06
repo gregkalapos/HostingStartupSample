@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26510.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreApplication_InjectionTarget", "AspNetCoreApplication_InjectionTarget\AspNetCoreApplication_InjectionTarget.csproj", "{1E4BA502-7DA1-4125-A215-04AF46B689F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwesomeHostingStartupLib", "AwesomeHostingStartup\AwesomeHostingStartupLib.csproj", "{61ECF9C2-3DFC-4B2C-9A6C-5912FAAC825F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E4BA502-7DA1-4125-A215-04AF46B689F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4BA502-7DA1-4125-A215-04AF46B689F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4BA502-7DA1-4125-A215-04AF46B689F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4BA502-7DA1-4125-A215-04AF46B689F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61ECF9C2-3DFC-4B2C-9A6C-5912FAAC825F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61ECF9C2-3DFC-4B2C-9A6C-5912FAAC825F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61ECF9C2-3DFC-4B2C-9A6C-5912FAAC825F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61ECF9C2-3DFC-4B2C-9A6C-5912FAAC825F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
